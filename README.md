@@ -31,7 +31,7 @@ Users should be able to:
 
 ### 🔗 Links
 
-- **Live Site URL:** [View Live](https://yourusername.github.io/blog-preview-card/)
+- **Live Site URL:** [View Live](https://bytesaad.github.io/blog-preview-card-main/)
 
 ---
 
